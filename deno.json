@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "drizzle-orm": "npm:drizzle-orm@^0.30.10"
+  }
+}
